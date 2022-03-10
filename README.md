@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joethefish1
 - 👀 I’m interested in learning code, collecting precious gemstones and collecting elements
-- 🌱 I’m currently learning HTML, CSS, javaScript and python
+- 🌱 I’m currently learning HTML, CSS, javascript and python
 - 📫 How to reach me: my email is realjoethefish@gmail.com
 
 <!---
